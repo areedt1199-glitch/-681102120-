@@ -1,0 +1,7 @@
+{
+  "name": "Student Attendance System",
+  "description": "A responsive web application for instructors and students to manage course attendance. Features include multiple check-in methods like face scan with location, QR code scanning, and manual attendance marking by instructors.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
